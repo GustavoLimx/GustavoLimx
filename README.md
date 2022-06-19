@@ -1,5 +1,6 @@
 ## Olá! Eu sou o GustavoLimx
 
+![baixados](https://user-images.githubusercontent.com/103502296/174503803-cbd761b4-7699-4cdb-9c24-e1065348a7ef.gif) 
 - 🐱‍👤 Sou Curioso
 - 🌱 Estudando PHP 
 - 🎂 Tenho 17 anos
